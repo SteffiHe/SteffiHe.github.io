@@ -1,6 +1,5 @@
-# SteffiHe.github.io
 
-# Meine neue Website 
+# Automaten-Simulator
 
 Text
 
@@ -8,5 +7,4 @@ Text
 
 **Fetter Text**
 
-<app-root>
   
