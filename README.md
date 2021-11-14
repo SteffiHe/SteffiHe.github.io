@@ -7,4 +7,4 @@ Text
 
 **Fetter Text**
 
-  
+  chars='BTSXPVE'
