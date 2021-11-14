@@ -1,3 +1,6 @@
+<mat-toolbar>
+  <span>Automaten-Simulator</span>
+</mat-toolbar>
 
 # Automaten-Simulator
 
@@ -7,6 +10,4 @@ Text
 
 **Fetter Text**
 
-<mat-toolbar>
-  <span>My Application</span>
-</mat-toolbar>
+
