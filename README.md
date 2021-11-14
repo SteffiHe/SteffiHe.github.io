@@ -7,3 +7,6 @@ Text
 
 **Fetter Text**
 
+<mat-toolbar>
+  <span>My Application</span>
+</mat-toolbar>
