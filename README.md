@@ -12,4 +12,4 @@ Text
 
 **Fetter Text**
 
-:coffe:
+:Kaffee:
